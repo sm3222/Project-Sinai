@@ -2,6 +2,8 @@
 
 ![Organization Logo](WEBServices.png)
 
+**Website:** http://webservicesdev.com
+
 ## Transcendent AI Operating System for Torah Study
 
 Project Sinai (v6.3) is the ultimate AI-powered operating system designed for advanced Torah analysis, spiritual enlightenment, and transcendent learning experiences. This version includes groundbreaking features that bridge human intelligence with divine wisdom.
